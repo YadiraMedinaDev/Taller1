@@ -1,0 +1,55 @@
+.navbar-dark {
+  background-color: rgb(2, 94, 115);
+}
+
+.classImg{
+  max-width: 100%;
+}
+
+.parrafo{
+  color: rgb(145, 153, 160);
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.botonCompras{
+  float: right;
+}
+
+.textoVrTotal{
+  color: rgb(2, 94, 115);
+  font-weight: bold;
+  font-size: larger;
+}
+
+.textoVrUnitario{
+  color: rgb(2, 94, 115);
+  font-weight: bold;
+}
+
+.textoCantidad{
+  font-weight: bold;
+}
+
+.titulo{
+  color: rgb(127, 135, 143);
+}
+
+.aPrincipal{
+  font-weight: bold;
+}
+
+@media (min-width: 576px) { }
+
+
+@media (min-width: 768px) { }
+
+
+@media (min-width: 992px) {
+  .classAbajo {
+    margin-top: 200px;
+  }
+  
+ }
+
+@media (min-width: 1200px) { }
