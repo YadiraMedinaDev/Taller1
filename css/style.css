@@ -47,7 +47,9 @@
 
 @media (min-width: 992px) {
   .classAbajo {
-    margin-top: 200px;
+    position:absolute;
+    bottom:0px;
+    width: 100%;
   }
   
  }
